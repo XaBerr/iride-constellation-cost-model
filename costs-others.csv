@@ -1,0 +1,14 @@
+Type,Date,Recurring (years),Firm,Description,Cost (mil €),Origin
+Non-recurring,2023,0,,B1 Fix Cost,53.67,
+Recurring,2023,6,,B1 Var Cost,272.33,
+Recurring,2024,6,,B2 Cost,216,
+Non-recurring,2023,0,Exprivia,Payload Data Ground Segment,25,Their Website
+Non-recurring,2023,0,Telespazio,Flight Operations Segment,100,NPV Costellation
+Non-recurring,2023,0,e-GEOS,Development of Marketplace,1,Same as CDS
+Recurring,2024,6,AVIO,Lunch B1,212.87,NPV Costellation
+Recurring,2025,6,AVIO,Lunch B2,219.13,NPV Costellation
+Recurring,2025,1,?,Ground Facilities Maintenance and Upkeep,45,NPV Costellation
+Recurring,2025,1,?,Constellation Operations,100,NPV Costellation
+Recurring,2025,1,?,Program Management and Systems Engineering,14.5,Copernicus CS3
+Non-recurring,2023,0,?,Software Infrastructure for the Climate Data Store (CDS),1,Copernicus CS3
+Recurring,2025,1,?,Provision of Cloud Hosting Services for Climate Data Store (CDS),0.65,Copernicus CS3
