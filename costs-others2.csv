@@ -1,0 +1,19 @@
+Short Name,Recurring Period (year),Date,Activity Duration,Amortization Duration,Firm,Description,Cost (€ mil),Classification,Origin,Estimation method
+Financing,0,2023,0,0,,Initial budget invested in the firm,"1,100.00",Financing,https://www.esa.int/Space_in_Member_States/Italy/IRIDE_La_squadra_e_al_completo,Copied
+Satellite b1 RnD,0,2023,1,5,Mix,B1 Fix Cost,53.67,Build Assets,Previous Table,-
+Satellite b1 Development,6,2023,1,5,Mix,B1 Var Cost,272.33,Build Assets,Previous Table,-
+Satellite b2 Development,6,2024,1,5,Mix,B2 Cost,216.00,Build Assets,Previous Table,-
+Infrastructure Development 1,0,2023,1,5,Exprivia,G\S - Development of the Payload Data Ground Segment,25.00,Build Assets,https://www.exprivia.it/it-tile-programma-spaziale-iride-exprivia-si-aggiudica-gara-esa-da-25-milioni/,Copied
+Infrastructure Development 2,0,2023,1,5,Telespazio,G\S -  Development of the Flight Operations Segment,25.00,Build Assets,https://ieeexplore.ieee.org/document/9172346,50 GS - 25 PDGS
+Infrastructure Development 3,0,2023,1,5,e-GEOS,Development of Marketplace,1.00,Build Assets,https://www.ecmwf.int/sites/default/files/medialibrary/2019-03/2018_Copernicus_contract_awards.pdf,Same as Software Infrastructure for the Climate Data Store (CDS)
+Satellite b1 Launch,6,2024,1,0,AVIO,Launch B1,15.30,Operation Expenses,https://ieeexplore.ieee.org/document/9172346,.45 * # Sat
+Satellite b2 Launch,6,2025,1,0,AVIO,Launch B2,15.75,Operation Expenses,https://ieeexplore.ieee.org/document/9172346,.45 * # Sat
+Operation Infrastructure 1,1,2025,1,0,?,Ground Facilities Maintenance and Upkeep,45.00,Operation Expenses,https://ieeexplore.ieee.org/document/9172346,Copied
+Operation Infrastructure 2,1,2025,1,0,?,Constellation Operations,100.00,Operation Expenses,https://ieeexplore.ieee.org/document/9172346,Copied
+Operation Infrastructure 3,1,2025,1,0,?,Program Management and Systems Engineering,14.50,Operation Expenses,https://www.ecmwf.int/sites/default/files/medialibrary/2019-03/2018_Copernicus_contract_awards.pdf,Copied
+Infrastructure Development 4,0,2023,1,5,?,Software Infrastructure for the Climate Data Store (CDS),1.00,Build Assets,https://www.ecmwf.int/sites/default/files/medialibrary/2019-03/2018_Copernicus_contract_awards.pdf,Copied
+Operation Infrastructure 4,1,2025,1,0,?,Provision of Cloud Hosting Services for Climate Data Store (CDS),0.65,Operation Expenses,https://www.ecmwf.int/sites/default/files/medialibrary/2019-03/2018_Copernicus_contract_awards.pdf,Copied
+Infrastructure Development 5,0,2023,1,5,?,Other Assets,157.40,Build Assets,-,Remaining money / 2
+Operation Infrastructure 5,0,2023,1,0,?,Other Operations Before 2026,52.47,Operation Expenses,-,Remaining money / 2 / 3
+Operation Infrastructure 6,0,2024,1,0,?,Other Operations Before 2026,52.47,Operation Expenses,-,Remaining money / 2 / 3
+Operation Infrastructure 7,0,2025,1,0,?,Other Operations Before 2026,52.47,Operation Expenses,-,Remaining money / 2 / 3
